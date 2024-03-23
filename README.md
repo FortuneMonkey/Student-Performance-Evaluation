@@ -20,12 +20,10 @@ This project delves into the world of student performance, using a rich dataset 
 
 **Unveiling the Insights:** 
 
-(This section will be filled in as your project progresses)
-
 - **Unveiling Note-Taking's Power:** Did taking notes prove to be a valuable tool for academic success? ➡️
-- **Work-Life Balance Woes:** Does having additional work affect a student's ability to excel academically? ↔️➡️ (optional)
+- **Work-Life Balance Woes:** Does having additional work affect a student's ability to excel academically? ➡️
 - **Scholarship Synergy:** Does receiving a scholarship truly influence a student's grades? ➡️ (optional)
-- **Attendance and Achievement:** Do students who attend class consistently outperform their peers? ➡️ (optional)
+- **Attendance and Achievement:** Do students who attend class consistently outperform their peers? ➡️ 
 
 **The Journey Continues:** 
 
@@ -34,9 +32,5 @@ This project is an ongoing exploration into student performance. Stay tuned for 
 **Join the Conversation!** ️
 
 We welcome your contributions and questions. Share your thoughts on factors influencing student performance and help us build a more comprehensive understanding. 
-
-**License:**
-
-This project is licensed under the MIT License. 
 
 **Together, let's unlock the full potential of every student!** 
